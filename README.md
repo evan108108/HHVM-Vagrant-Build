@@ -1,4 +1,4 @@
-HHVM Vagrant box
+HHVM-Vagrant-Build
 ================
 
 Ubuntu 13.10 box simply installing HHVM via apt.
